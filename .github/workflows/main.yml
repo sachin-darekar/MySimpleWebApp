@@ -3,7 +3,7 @@ name: Sync GitHub to Azure Repos
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   sync:
